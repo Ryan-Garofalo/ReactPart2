@@ -1,9 +1,9 @@
 export default function() {
     return [
-        { title: "javascript: the Good Parts" },
-        { title: "javascript: the bad Parts" },
-        { title: "javascript: the cool Parts" },
-        { title: "javascript: the weird Parts" },
-        { title: "javascript: the yeeeee Parts" }
+        { title: "javascript: the Good Parts" , pages: 101 },
+        { title: "javascript: the bad Parts", pages: 103 },
+        { title: "javascript: the cool Parts" , pages: 104},
+        { title: "javascript: the weird Parts" , pages: 105},
+        { title: "javascript: the yeeeee Parts" , pages: 106}
     ];
 }
